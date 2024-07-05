@@ -8,6 +8,7 @@ Welcome to the YESLab aging project's repository! This repository is organized t
   - Papers and books are categorized and stored in respective folders.
   - Papers are placed in folders with their reviews/reports (if available) under the authors' names.
   - Different editions of a book are stored within the same folder.
+  - Creating a README.md in each of these folders is encouraged for people to take notes. It is also encouraged to attach your name after your note.
 
 - **Lab Members' Folders**:
   - Each lab member has a personal folder containing their materials (reading lists, presentations, etc.).
