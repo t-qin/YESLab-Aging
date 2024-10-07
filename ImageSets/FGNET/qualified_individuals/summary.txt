@@ -1,0 +1,8 @@
+This run selects individuals with a photo span of 30 years or more and an oldest age of 60 years old or more.
+
+The qualified individuals of this run are as follows:
+
+Person ID: 003, Year Span: 43, Latest Age: 61
+Person ID: 004, Year Span: 44, Latest Age: 63
+Person ID: 005, Year Span: 43, Latest Age: 61
+Person ID: 006, Year Span: 45, Latest Age: 69
